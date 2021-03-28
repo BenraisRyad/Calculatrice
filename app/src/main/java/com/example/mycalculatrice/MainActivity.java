@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         this.tvResultat = (TextView) findViewById(R.id.idResultat);
         this.btNum0 = (Button) findViewById(R.id.idNum0);
         this.btNum1 = (Button) findViewById(R.id.idNum1);
-        this.btNum2 = (Button) finViewById(R.id.idNum2);
+        this.btNum2 = (Button) findViewById(R.id.idNum2);
         this.btNum3 = (Button) findViewById(R.id.idNum3);
         this.btNum4 = (Button) findViewById(R.id.idNum4);
         this.btNum5 = (Button) findViewById(R.id.idNum5);
