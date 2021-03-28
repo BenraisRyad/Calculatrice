@@ -12,7 +12,7 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/idNum0"
+        android:id="@+id/button0"
         android:layout_width="144dp"
         android:layout_height="61dp"
         android:background="@android:drawable/ic_notification_overlay"
@@ -24,7 +24,7 @@
         tools:visibility="visible" />
 
     <Button
-        android:id="@+id/idNum1"
+        android:id="@+id/button1"
         android:layout_width="66dp"
         android:layout_height="57dp"
         android:background="@android:drawable/ic_notification_overlay"
@@ -37,7 +37,7 @@
         tools:visibility="visible" />
 
     <Button
-        android:id="@+id/idNum2"
+        android:id="@+id/button2"
         android:layout_width="66dp"
         android:layout_height="57dp"
         android:background="@android:drawable/ic_notification_overlay"
@@ -50,7 +50,7 @@
         tools:visibility="visible" />
 
     <Button
-        android:id="@+id/idNum3"
+        android:id="@+id/button3"
         android:layout_width="66dp"
         android:layout_height="57dp"
         android:background="@android:drawable/ic_notification_overlay"
@@ -63,7 +63,7 @@
         tools:visibility="visible" />
 
     <Button
-        android:id="@+id/idNum4"
+        android:id="@+id/button4"
         android:layout_width="66dp"
         android:layout_height="57dp"
         android:background="@android:drawable/ic_notification_overlay"
@@ -76,7 +76,7 @@
         tools:visibility="visible" />
 
     <Button
-        android:id="@+id/idNum5"
+        android:id="@+id/button5"
         android:layout_width="66dp"
         android:layout_height="57dp"
         android:background="@android:drawable/ic_notification_overlay"
@@ -89,7 +89,7 @@
         tools:visibility="visible" />
 
     <Button
-        android:id="@+id/idNum6"
+        android:id="@+id/button6"
         android:layout_width="66dp"
         android:layout_height="57dp"
         android:background="@android:drawable/ic_notification_overlay"
@@ -102,7 +102,7 @@
         tools:visibility="visible" />
 
     <Button
-        android:id="@+id/idNum7"
+        android:id="@+id/button7"
         android:layout_width="66dp"
         android:layout_height="57dp"
         android:background="@android:drawable/ic_notification_overlay"
@@ -115,7 +115,7 @@
         tools:visibility="visible" />
 
     <Button
-        android:id="@+id/idNum8"
+        android:id="@+id/button8"
         android:layout_width="66dp"
         android:layout_height="57dp"
         android:background="@android:drawable/ic_notification_overlay"
@@ -128,7 +128,7 @@
         tools:visibility="visible" />
 
     <Button
-        android:id="@+id/idNum9"
+        android:id="@+id/button9"
         android:layout_width="66dp"
         android:layout_height="57dp"
         android:background="@android:drawable/ic_notification_overlay"
@@ -154,7 +154,7 @@
         tools:visibility="visible" />
 
     <Button
-        android:id="@+id/idRetour"
+        android:id="@+id/buttonC"
         android:layout_width="71dp"
         android:layout_height="59dp"
         android:background="@android:drawable/ic_notification_overlay"
@@ -167,7 +167,7 @@
         tools:visibility="visible" />
 
     <Button
-        android:id="@+id/idEgal"
+        android:id="@+id/buttonEgal"
         android:layout_width="94dp"
         android:layout_height="63dp"
         android:background="@android:drawable/ic_notification_overlay"
@@ -180,7 +180,7 @@
         tools:visibility="visible" />
 
     <Button
-        android:id="@+id/idMoins"
+        android:id="@+id/buttonMoins"
         android:layout_width="94dp"
         android:layout_height="63dp"
         android:background="@android:drawable/ic_notification_overlay"
@@ -193,7 +193,7 @@
         tools:visibility="visible" />
 
     <Button
-        android:id="@+id/idMult"
+        android:id="@+id/buttonMultiplier"
         android:layout_width="94dp"
         android:layout_height="63dp"
         android:background="@android:drawable/ic_notification_overlay"
@@ -206,7 +206,7 @@
         tools:visibility="visible" />
 
     <Button
-        android:id="@+id/idDiv"
+        android:id="@+id/buttonDivision"
         android:layout_width="94dp"
         android:layout_height="63dp"
         android:background="@android:drawable/ic_notification_overlay"
@@ -219,7 +219,7 @@
         tools:visibility="visible" />
 
     <Button
-        android:id="@+id/idPlus"
+        android:id="@+id/buttonPlus"
         android:layout_width="94dp"
         android:layout_height="63dp"
         android:background="@android:drawable/ic_notification_overlay"
@@ -232,7 +232,7 @@
         tools:visibility="visible" />
 
     <Button
-        android:id="@+id/idPoint"
+        android:id="@+id/buttonPoint"
         android:layout_width="91dp"
         android:layout_height="61dp"
         android:background="@android:drawable/ic_notification_overlay"
@@ -258,7 +258,7 @@
         tools:visibility="visible" />
 
     <TextView
-        android:id="@+id/idResultat"
+        android:id="@+id/EditText01"
         android:layout_width="93dp"
         android:layout_height="70dp"
         android:text="0"
